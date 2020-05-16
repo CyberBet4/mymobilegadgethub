@@ -1,0 +1,7 @@
+echo "# mymobilegadgethub" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/CyberBet4/mymobilegadgethub.git
+git push -u origin master
+                
